@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1J7u7R/1qe7YUFan+ShQFibw7U45LDxenk0Q5Y2g58dN2QCroV8XotFSfg5g9VrMbHDPL5O0hALXY0qD6D3Bw==",
+  "success": true,
+  "projectFilePath": "/Users/pattyrose/Desktop/c0ding/CretaceousClient.Solution/CretaceousClient/CretaceousClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/pattyrose/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/pattyrose/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
